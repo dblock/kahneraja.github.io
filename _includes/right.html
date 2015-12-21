@@ -3,7 +3,7 @@
 </div>
 <div>
 	<ul>
-	{% for post in site.posts %}
+	{% for post in site.posts limit:10 %}
 	  <li>
 	  	<a href="{{ post.url | prepend: site.baseurl }}">
 	      	<div>
