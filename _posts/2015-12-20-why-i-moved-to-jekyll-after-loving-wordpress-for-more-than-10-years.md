@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I moved to Jekyll after loving Wordpress for more than 10 years."
+title:  "Here's why I moved to Jekyll after loving Wordpress for more than 10 years."
 feature: "jekyll.jpg"
 ---
 
@@ -12,7 +12,7 @@ https://appsto.re/au/93PjQ.i)
 
 > "Whenever a client wants to do something really tricky my default is to try to figure out if we can service their needs with a static html website. It never works but it's still fun to try."
 
-I've been writing on wordpress now for over 10 years and I've finally decided to get cool and move to jekyll. 
+I've been writing on wordpress now for over 10 years and I've finally decided to get cool, enjoy the process even more and move my content to Jekyll on GitHub. 
 
 ## Cost and Load Time.
 
@@ -43,4 +43,4 @@ It took be a day to faff around the Jekyll's templating strategy and a day to mi
 
 Two days.
 
-Ths blog is now Jekyll generated and hosted on github pages.
+Ths blog is now Jekyll generated and hosted on github pages. I hope that page load was snappy.
