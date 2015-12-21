@@ -8,7 +8,7 @@
 # Site settings
 title: Kahne Raja
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kahneraja.github.io" # the base hostname & protocol for your site
+url: "http://kahneraja.com" # the base hostname & protocol for your site
 permalink: /:title
 encoding: utf-8
 # Build settings
