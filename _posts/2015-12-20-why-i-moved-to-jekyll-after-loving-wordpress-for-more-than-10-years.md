@@ -4,6 +4,10 @@ title:  "Why I moved to Jekyll after loving Wordpress for more than 10 years."
 feature: "jekyll.jpg"
 ---
 
+- [Jekyll: Transform your plain text into static websites and blogs.](https://jekyllrb.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [Getting Started With Jekyll, The Static Site Generator](https://www.youtube.com/watch?v=iWowJBRMtpc)
+
 > "Whenever a client wants to do something really tricky my default is to try to figure out if we can service their needs with a static html website. It never works but it's still fun to try."
 
 I've been writing on wordpress now for over 10 years and I've finally decided to get cool and move to jekyll. 
@@ -14,8 +18,8 @@ Here's why I even bothered looking into change.
 
 > "Why are you paying for computing power to run a blog?"
 
-1. AWS has started sending me $30AU bills to keep my wordpress site up and running.
-2. Wordpress runs really slow. I literally have to wait around for the page to load.
+1. AWS has started sending me $30AU/month bills to keep my wordpress site up and running.
+2. Wordpress runs really slow. I literally have to "wait around" for the page to load.
 
 Following that I've found a bunch of other nice things about Jekyll :)
 
@@ -33,4 +37,4 @@ It took be a day to faff around the Jekyll's templating strategy and a day to mi
 
 Two days.
 
-Ths blog is now hosted free on github.
+Ths blog is now Jekyll generated and hosted on github pages.
