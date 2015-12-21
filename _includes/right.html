@@ -1,0 +1,19 @@
+<div>
+	{% include about.html %}
+</div>
+<div>
+	<ul>
+	{% for post in site.posts %}
+	  <li>
+	  	<a href="{{ post.url | prepend: site.baseurl }}">
+	      	<div>
+	      		<img src="{{ site.baseurl }}/assets/post/thumbnail/{{ post.feature }}" alt="{{ post.title }}">
+	      	</div>	  	
+	      	<div>
+	      		<span>{{ post.title }}</span>
+	      	</div>
+	    </a>
+	  </li>
+	{% endfor %}
+	</ul>
+</div>
