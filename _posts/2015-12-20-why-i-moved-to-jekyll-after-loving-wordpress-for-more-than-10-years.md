@@ -33,14 +33,18 @@ Working with Jekyll brings me close to the front end code and allows me to be a 
 
 With a whole new world of distributed web technologies it's now quite a straight forward exercise to handle things like "membership", "ecommerce", "document store", and "data" via javascript connected services like UserApp, Firebase, Snicart, SendOwl and other things.
 
+I really like the way my blog is now much more transparent any in regards to versioning and asset storage.
+
 ## It's not because of I love Markdown
 
 Wordpress and every other blogging engine nowadays has a markdown plugin to bring that sort of thing into your life when you need it.
 
+I am a Markdown fanboy but I didn't make this change for the sake of Markdown. I already had that spinning in Wordpress.
+
 ## How long did it take?
 
-It took be a day to faff around the Jekyll's templating strategy and a day to migrate my wordpress content using various fun things like sublime group editing and powershell.
+It took me one day to faff around with Jekyll's templating strategy and one day to migrate my wordpress content using various fun things like sublime group editing and powershell.
 
 Two days.
 
-Ths blog is now Jekyll generated and hosted on github pages. I hope that page load was snappy.
+This blog is now Jekyll generated and hosted on github pages. Was the page load snappy?
