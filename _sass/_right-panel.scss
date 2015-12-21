@@ -29,6 +29,7 @@
 					width: 50px;
 					margin-top: $padding-unit;
 					box-shadow: 4px 4px 4px $grey-color-light;
+					border-radius: $radius;
 				}
 			}
 
@@ -47,6 +48,7 @@
 
     .archive{
     	text-align: right;
+    	margin: 0 $padding-unit;
     }
 	
 }

@@ -24,8 +24,9 @@
 	}
 
 	img.profile {
-		width: $tile-width - $padding-unit * 4;
-		height: $tile-width - $padding-unit * 4;
+		padding: $padding-unit;
+		width: $tile-width - $padding-unit * 8;
+		height: $tile-width - $padding-unit * 8;
 		margin-bottom: $padding-unit * 2;
 	}
 }
