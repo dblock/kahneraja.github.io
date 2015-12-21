@@ -8,8 +8,11 @@
     {% include header.html %}
 
     <div class="outer-panel">
-      <div class="home-panel">{{ content }}</div><div class="right-panel">{% include about.html %}</div>
+      <div class="home-panel">{{ content }}</div><div class="right-panel">{% include about.html %}<div class="archive"><a href="{{ site.baseurl }}/archive">Archive</a></div></div>
     </div>
+
+    {% include footer.html %}
+    
   </body>
 
 </html>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Celebrate #DrawingAugust with @ArtKahne at Parliament on King.
+title: "Celebrate #DrawingAugust with @ArtKahne at Parliament on King."
 published: True
-feature: 
+feature: drawaugust.jpg
 
 ---
 

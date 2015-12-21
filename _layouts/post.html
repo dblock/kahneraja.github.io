@@ -4,10 +4,13 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-  	<div>
+  	{% if page.feature %} 
+    <div>
   		<div class="feature"><img src="{{ site.baseurl }}/assets/post/full/{{ page.feature }}" alt="{{ page.caption }}" /></div>
+
   		<span class="caption">{{ page.caption }}</span>
   	</div>
+    {% endif %}
   	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
   </header>
 

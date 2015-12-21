@@ -43,6 +43,10 @@
 
     @include media-query($outer-max-width + $scollbar-width) {
         display: none;
-    }	
+    }
+
+    .archive{
+    	text-align: right;
+    }
 	
 }
