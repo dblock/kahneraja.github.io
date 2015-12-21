@@ -7,6 +7,8 @@ feature: "jekyll.jpg"
 - [Jekyll: Transform your plain text into static websites and blogs.](https://jekyllrb.com/)
 - [GitHub Pages](https://pages.github.com/)
 - [Getting Started With Jekyll, The Static Site Generator](https://www.youtube.com/watch?v=iWowJBRMtpc)
+- [Push changes to your GitHub repo from your phone with CodeHub the mobile app](CodeHub - A Client for GitHub by Dillon Buchanan
+https://appsto.re/au/93PjQ.i)
 
 > "Whenever a client wants to do something really tricky my default is to try to figure out if we can service their needs with a static html website. It never works but it's still fun to try."
 
@@ -23,13 +25,17 @@ Here's why I even bothered looking into change.
 
 Following that I've found a bunch of other nice things about Jekyll :)
 
-## I'm a Developer. I like flexibility. I like Markdown.
+## I'm a Developer. I like flexibility.
 
 The experience of publishing with wordpress is more suitable for journalists, content writers, basically anyone who doesn't enjoy code.
 
 Working with Jekyll brings me close to the front end code and allows me to be a little more creative and efficient.
 
 With a whole new world of distributed web technologies it's now quite a straight forward exercise to handle things like "membership", "ecommerce", "document store", and "data" via javascript connected services like UserApp, Firebase, Snicart, SendOwl and other things.
+
+## It's not because of I love Markdown
+
+Wordpress and every other blogging engine nowadays has a markdown plugin to bring that sort of thing into your life when you need it.
 
 ## How long did it take?
 
