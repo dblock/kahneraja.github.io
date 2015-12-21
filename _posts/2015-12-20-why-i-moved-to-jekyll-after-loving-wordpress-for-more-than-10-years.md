@@ -36,9 +36,6 @@ With a whole new world of distributed web technologies it's now quite a straight
 
 ## How long did it take?
 
-1. Sat through a 3hr pluralsight course.
-2.
+It took be a day to faff around the Jekyll's templating strategy and a day to migrate my wordpress content using various fun things like sublime group editing and powershell.
 
-## Pain points?
-
-I really like the wordpress mobile app. I use it to edit stuff and it's support sweet. I will miss that.
+Two days.
