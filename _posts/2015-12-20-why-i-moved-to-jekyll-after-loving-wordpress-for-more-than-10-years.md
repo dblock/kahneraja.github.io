@@ -35,7 +35,7 @@ With a whole new world of distributed web technologies it's now quite a straight
 
 I like the way my blog is now much more transparent in regards to versioning and asset storage.
 
-## It's not because of I love Markdown
+## It's not because of my love for Markdown
 
 Wordpress and every other blogging engine nowadays has a markdown plugin to bring that sort of thing into your life when you need it.
 
