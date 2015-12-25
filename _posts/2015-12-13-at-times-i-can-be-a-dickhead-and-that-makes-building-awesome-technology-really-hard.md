@@ -26,9 +26,9 @@ This is what I need to work on.
 
 I feel as though there is far more strength in celebrating personal diversity and differences over commonality and conformity.
 
-This get's me into trouble most day so of my life.
+This get's me into trouble most day's of my life.
 
-I may well have a healthy mind and a big heart but when it comes to working with people I tend to cause unexpected conflict. I focus on difference. I make people the problem. I agitate with endless questions. I setup to fail. I spark instead of simmer. I find issues and not solutions. I'm intense, emotional, exhausting and controlling. I compare people. I compete. I mix messages. I take up all the space. I never shut up.
+I may well have a healthy mind and a big heart but when it comes to working with people I tend to cause unexpected conflict. I focus on divergence. I make people the problem. I agitate with endless questions. I set people up to fail in order to isolate blockers. I spark instead of simmer. I find issues and not solutions. I'm intense, emotional, exhausting and controlling. I compare people. I compete. I mix messages. I take up all the space. I never shut up.
 
 Do I want to change this?
 
