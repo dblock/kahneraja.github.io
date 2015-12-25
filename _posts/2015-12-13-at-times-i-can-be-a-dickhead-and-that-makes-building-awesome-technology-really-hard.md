@@ -78,7 +78,7 @@ I absolutely love bringing people together. If I could I would do my job for fre
 
 I now understanding that if I want to be a more influential leader, when faced with dispute and chaos, I need to find a way to present stability, reliability and safety, and to be less of a dickhead.
 
-Thank you for the feedback and for being so patient with me. To be continued...
+Thank you for the feedback and for being so patient with me.
 
  [1]: https://www.youtube.com/watch?v=3aDXM5H-Fuw
  [2]: https://books.google.com/ngrams/graph?year_start=1800&year_end=2008&corpus=15&smoothing=7&case_insensitive=on&content=dickhead&direct_url=t4%3B%2Cdickhead%3B%2Cc0%3B%2Cs0%3B%3Bdickhead%3B%2Cc0%3B%3BDickhead%3B%2Cc0
