@@ -26,9 +26,9 @@ This is what I need to work on.
 
 I feel as though there is far more strength in celebrating personal diversity and differences over commonality and conformity.
 
-This get's me into trouble most day so of my life.
+This get's me into trouble most day's of my life.
 
-I may well have a healthy mind and a big heart but when it comes to working with people I tend to cause unexpected conflict. I focus on difference. I make people the problem. I agitate with endless questions. I setup to fail. I spark instead of simmer. I find issues and not solutions. I'm intense, emotional, exhausting and controlling. I compare people. I compete. I mix messages. I take up all the space. I never shut up.
+I may well have a healthy mind and a big heart but when it comes to working with people I tend to cause unexpected conflict. I focus on divergence. I make people the problem. I agitate with endless questions. I set people up to fail in order to isolate blockers. I spark instead of simmer. I find issues and not solutions. I'm intense, emotional, exhausting and controlling. I compare people. I compete. I mix messages. I take up all the space. I never shut up.
 
 Do I want to change this?
 
@@ -78,7 +78,7 @@ I absolutely love bringing people together. If I could I would do my job for fre
 
 I now understanding that if I want to be a more influential leader, when faced with dispute and chaos, I need to find a way to present stability, reliability and safety, and to be less of a dickhead.
 
-Thank you for the feedback and for being so patient with me. To be continued...
+Thank you for the feedback and for being so patient with me.
 
  [1]: https://www.youtube.com/watch?v=3aDXM5H-Fuw
  [2]: https://books.google.com/ngrams/graph?year_start=1800&year_end=2008&corpus=15&smoothing=7&case_insensitive=on&content=dickhead&direct_url=t4%3B%2Cdickhead%3B%2Cc0%3B%2Cs0%3B%3Bdickhead%3B%2Cc0%3B%3BDickhead%3B%2Cc0
