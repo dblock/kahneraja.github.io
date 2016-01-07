@@ -7,8 +7,8 @@ published: True
 feature: "yammer.jpg"
 ---
 
-- [Yammer Awards Client App. Try it!](kahneraja.com/YammerAwards/dist){:target="_blank"}
-- [Yammer: Enterprise Social Network](www.yammer.com){:target="_blank"}
+- [Yammer Awards Client App. Try it!](http://kahneraja.com/YammerAwards/dist){:target="_blank"}
+- [Yammer: Enterprise Social Network](http://www.yammer.com){:target="_blank"}
 - [Github Repository](https://github.com/kahneraja/YammerAwards){:target="_blank"}
 
 Do you use Microsoft's enterprise social network Yammer?
@@ -22,7 +22,7 @@ To get us started I've now puzzled together the following (slightly weird) prize
 - Contributor Award: I get involved by posting and liking more than anyone else.
 - Batman Award: I only ever post at night.
 
-[Try it on your yammer network and see who wins :)](kahneraja.com/YammerAwards/dist){:target="_blank"}
+[Try it on your yammer network and see who wins :)](http://kahneraja.com/YammerAwards/dist){:target="_blank"}
 
 # How?
 
