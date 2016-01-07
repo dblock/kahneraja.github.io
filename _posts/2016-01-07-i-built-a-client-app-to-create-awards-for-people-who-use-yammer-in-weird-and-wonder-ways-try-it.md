@@ -13,7 +13,7 @@ feature: "yammer.jpg"
 
 Do you use Microsoft's enterprise social network Yammer?
 
-I've puzzled together the following (slightly weird) prizes to help us celebrate the awesome magic posting.
+To get us started I've now puzzled together the following (slightly weird) prizes:
 
 - Bang For Buck Award: Most engaging post in under 140 characters.
 - Group Creator Award: Creator of most popular new group.
