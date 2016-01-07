@@ -7,8 +7,8 @@ published: True
 feature: "yammer.jpg"
 ---
 
-- [Yammer: Enterprise Social Network](www.yammer.com){:target="_blank"}
 - [Yammer Awards Client App. Try it!](kahneraja.com/YammerAwards/dist){:target="_blank"}
+- [Yammer: Enterprise Social Network](www.yammer.com){:target="_blank"}
 - [Github Repository](https://github.com/kahneraja/YammerAwards){:target="_blank"}
 
 Do you use Microsoft's enterprise social network Yammer?
