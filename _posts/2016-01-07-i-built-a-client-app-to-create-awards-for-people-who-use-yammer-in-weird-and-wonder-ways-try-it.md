@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "I've built a client app to create awards for people who use Yammer in weird and wonder ways. Try it."
+title: "Yammer Awards. I built a client app to help us create awards for people who use Yammer in weird and wonderful ways."
 categories: []
 tags: []
 published: True
 feature: "yammer.jpg"
 ---
 
-- [Yammer Awards Client App](kahneraja.com/YammerAwards/dist){:target="_blank"}
-- [Github Repo](https://github.com/kahneraja/YammerAwards){:target="_blank"}
+- [Yammer: Enterprise Social Network](www.yammer.com){:target="_blank"}
+- [Yammer Awards Client App. Try it!](kahneraja.com/YammerAwards/dist){:target="_blank"}
+- [Github Repository](https://github.com/kahneraja/YammerAwards){:target="_blank"}
 
-Do you use yammer at work?
+Do you use Microsoft's enterprise social network Yammer?
 
 I've puzzled together the following (slightly weird) prizes to help us celebrate the awesome magic posting.
 
