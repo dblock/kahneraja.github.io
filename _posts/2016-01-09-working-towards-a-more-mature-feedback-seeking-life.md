@@ -13,7 +13,7 @@ feature: "feedback-seeking.jpg"
 - [Self-regulation for Managerial Effectiveness: The Role of Active Feedback Seeking](http://amj.aom.org/content/34/2/251.short){:target="_blank"}
 - [Feedback-Seeking in Individual Adaptation: A Resource Perspective](http://amj.aom.org/content/29/3/465.short){:target="_blank"}
 
-Here's a reseach project I'd love to do.
+Here's a research project I'd love to do.
 
 - How do we more accurately assess an individual's ability to handle feedback? 
 - What are the steps towards feedback seeking maturity?
