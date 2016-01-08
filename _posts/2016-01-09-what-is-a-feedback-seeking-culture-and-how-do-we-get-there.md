@@ -46,7 +46,7 @@ When things become uncomfortable we try to "give" feedback. Setting up situation
 
 #### Stage 3. Receiving
 
-This is a sign of maturity.
+Receiving is a sign of maturity.
 
 > "I hear what you are saying and I am able to take it on-board whole heartedly."
 
@@ -54,7 +54,7 @@ Receive feedback without getting caught up in triggers, boundaries, displacement
 
 #### Stage 4. Seeking
 
-A form of enlightenment.
+Seeking is progressive.
 
 > "Tell me, what is the one thing holding me back from being a better partner / colleagues / friend / son / parent / ...? Let's actually talk."
 
