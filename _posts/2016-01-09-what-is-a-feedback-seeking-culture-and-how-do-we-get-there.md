@@ -59,7 +59,7 @@ Receiving is a sign of maturity.
 
 Receive feedback without getting caught up in triggers, boundaries, displacement, identity, truth, perspective and tracks is a big challenge. This takes significant training.
 
-Forming resolutions and agreements. Greater intimacy, and a spirit of co-operation. Clarity around common goals and shared responsibility. Clearer success targets. Higher levels of tolerance and compassion. Flexible and forgiving. Progressive and regressive.
+Forming resolutions and agreements. Greater intimacy, and a spirit of co-operation. Clarity around common goals and shared responsibility. Clearer success targets. Higher levels of tolerance and compassion. Flexible and forgiving.
 
 #### Stage 4. Seeking
 
@@ -76,5 +76,5 @@ Maintaining a feedback seeking culture takes work, skill development, modelling,
 ### Hypothesis
 
 1. If we can assess a collective's feedback seeking maturity we can more accurately calculate their performance.
-2. Modelling feedback seeking behaviour is a shortcut to improved teamwork maturity.
-3. A team's current stage of feedback seeking maturity will inversely align with their levels of management authority.
+2. Modelling feedback seeking behaviour is a shortcut to improved team work maturity.
+3. A team's current stage of feedback seeking maturity will inversely align with their levels of required management authority.
