@@ -77,3 +77,4 @@ Maintaining a feedback seeking culture takes work, skill development, modelling,
 
 1. If we can assess a collective's feedback seeking maturity we can more accurately calculate their performance.
 2. Modelling feedback seeking behaviour is a shortcut to improved teamwork maturity.
+3. A team's current stage of feedback seeking maturity will inversely align with their levels of management authority.
