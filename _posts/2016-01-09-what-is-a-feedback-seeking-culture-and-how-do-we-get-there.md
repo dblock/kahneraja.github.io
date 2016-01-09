@@ -21,7 +21,7 @@ Here's a research project I'd love to do.
 
 > "Handling feedback well is all about being more responsive to the information we receive about our environment and ourselves."
 
-I see four categories that apply to all of us in our various organisations, projects, partnerships, friendships, communities and families.
+I see four stages of growth when it comes to handling feedback in our various organisations, projects, partnerships, friendships, communities and families.
 
 Where do you sit on this feedback seeking maturity model?
 
@@ -59,7 +59,7 @@ Receive feedback without getting caught up in triggers, boundaries, displacement
 
 Seeking is progressive.
 
-> "Tell me, what is the one thing holding me back from being a better partner / colleagues / friend / son / parent / ...? Let's actually talk."
+> "Tell me, what is the one thing holding me back from being a better partner / colleague / friend / son / parent / ...? Let's actually talk."
 
 A feedback seeking culture is one in which we communicate with authenticity and respond with improved agility.
 
