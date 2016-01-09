@@ -12,6 +12,7 @@ feature: "feedback-seeking.jpg"
 - [The Impact of Culture on Feedback-Seeking Behavior: An Integrated Model and Propositions](http://amr.aom.org/content/25/4/829.short){:target="_blank"}
 - [Self-regulation for Managerial Effectiveness: The Role of Active Feedback Seeking](http://amj.aom.org/content/34/2/251.short){:target="_blank"}
 - [Feedback-Seeking in Individual Adaptation: A Resource Perspective](http://amj.aom.org/content/29/3/465.short){:target="_blank"}
+- [Tuckman's four stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development){:target="_blank"}
 
 Here's a research project I'd love to do.
 
@@ -27,6 +28,8 @@ Where do you sit on this feedback seeking maturity model?
 ### The four stages to feedback seeking maturity.
 
 Each of these stages is a huge leap forwards and requires a lot of training and work to progress.
+
+I see a strong correlation between this and Tuckman's four stages of team development. Handling feeback well is the key to allowing a team to go from Forming and Storming to Norming and Performing.
 
 #### Stage 1. Silence
 
@@ -63,5 +66,3 @@ A feedback seeking culture is one in which we communicate with authenticity and 
 This takes a lot of modelling, leadership, safety and maturity. We must learn how to seek feedback.
 
 Maintaining a feedback seeking culture takes a lot of work.
-
-Where do you sit on this feedback seeking maturity model?
