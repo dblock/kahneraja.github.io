@@ -25,11 +25,11 @@ I see four stages of growth when it comes to handling feedback in our various or
 
 Where do you sit on this feedback seeking maturity model?
 
-### The four stages to feedback seeking maturity.
+### Four stages of feedback seeking maturity.
 
 Each of these stages is a huge leap forwards and requires a lot of training and work to progress.
 
-I see a strong correlation between this and Tuckman's four stages of team development. Handling feeback well is the key to allowing a team to go from Forming and Storming to Norming and Performing.
+I see a strong correlation between this and Tuckman's four stages of team development. Handling feeback well is the key to allowing a team to go from forming and storming to norming and performing.
 
 #### Stage 1. Silence
 
@@ -39,6 +39,8 @@ We all start here.
 
 Silence is our first and last refuge.
 
+A chance to learn about the opportunities and challenges and tackle tasks. Tending to behave quite independently, safely and focused on self. Motivated but relatively uninformed of longer term issues and objectives.
+
 #### Stage 2. Giving
 
 Giving is a baby step.
@@ -46,6 +48,8 @@ Giving is a baby step.
 > "Hi Sally. We really need to catch up and talk about..."
 
 When things become uncomfortable we try to "give" feedback. Setting up situations in which we can frame a conversation around sending a clear signal is hard.
+
+Form opinions about the character and integrity of the other participants. Feel compelled to voice opinions. Balancing power and responsibility. Asking questions and assessing decisions. Voicing disagreements and personality clashes.
 
 #### Stage 3. Receiving
 
@@ -55,6 +59,8 @@ Receiving is a sign of maturity.
 
 Receive feedback without getting caught up in triggers, boundaries, displacement, identity, truth, perspective and tracks is a big challenge. This takes significant training.
 
+Forming resolutions and agreements. Greater intimacy, and a spirit of co-operation. Clarity around common goals and shared responsibility. Clearer success targets. Higher levels of tolerance and compassion. Flexible and forgiving. Progressive and regressive.
+
 #### Stage 4. Seeking
 
 Seeking is progressive.
@@ -63,6 +69,11 @@ Seeking is progressive.
 
 A feedback seeking culture is one in which we communicate with authenticity and respond with improved agility.
 
-This takes a lot of modelling, leadership, safety and maturity. We must learn how to seek feedback.
+Responsible, motivated and knowledgeable. Competent, autonomous and capable of handling executive decisions without supervision. Efficient response. Openness to criticism.
 
-Maintaining a feedback seeking culture takes a lot of work.
+Maintaining a feedback seeking culture takes work, skill development, modelling, leadership, safety and maturity.
+
+### Hypothesis
+
+1. If we can assess a collective's feedback seeking maturity we can more accurately calculate their performance.
+2. Modelling feedback seeking behaviour is a shortcut to improved teamwork maturity.
