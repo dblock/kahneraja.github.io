@@ -30,11 +30,13 @@ Semver specifies what "^3.10.1" really means. At it’s simpliest it implies [ma
 
 This standard is becoming more and more important in the progressive open source web based development world we all live in. And it also brings into play our new found ability to handle transitive dependency.
 
+Versioning is a wide and complex problem space and semver creates a language on which we can formalise simple agreements.
+
 Are you using it in your current project?
 
 > "Lets say you update versions of libraries your project depends on and make no other changes. When you re-release your project, which version number should you bump? I think it ought to be the minor number and that it shouldn't depend on whether those libraries broke backwards compatibility. I'm curious what others think?"
 
-It's these sorts of questions semver is setup to solve. Versioning is a wide and complex problem space and semver creates a language on which we can formalise simple agreements.
+It's these sorts of questions semver is setup to solve. 
 
 Without a common understanding of how we label our releases it becomes increasingly difficult to allow for a healthy ecosystem to take hold. 
 
