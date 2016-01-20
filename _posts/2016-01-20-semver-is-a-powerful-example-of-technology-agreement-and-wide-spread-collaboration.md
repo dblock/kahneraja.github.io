@@ -33,7 +33,7 @@ Are you using it in your current project?
 
 > "Lets say you update versions of libraries your project depends on and make no other changes. When you re-release your project, which version number should you bump? I think it ought to be the minor number and that it shouldn't depend on whether those libraries broke backwards compatibility. I'm curious what others think?"
 
-It's these sorts of questions semver is setup to solve.
+It's these sorts of questions semver is setup to solve. Versioning is a wide and complex problem space and semver creates a language on which we can formalise simple agreements.
 
 Without a common understanding of how we label our releases it becomes increasingly difficult to allow for a healthy ecosystem to take hold. 
 
