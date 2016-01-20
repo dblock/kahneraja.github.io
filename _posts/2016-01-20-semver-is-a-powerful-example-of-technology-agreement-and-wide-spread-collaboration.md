@@ -22,7 +22,7 @@ Semver is a pretty quite topic. For what's there to help us with I'm surprised I
 
 Semantic Versioning is a commonly used naming convension for labeling a library, component, package, api, service or any other shared piece of technology. It can also be used for document store management or anything else that is constantly evolving.
 
-The specification is authored by Tom Preston-Werner, inventor of Gravatars and cofounder of GitHub. It details the meaning of a given version number.
+The specification is authored by Tom Preston-Werner, inventor of Gravatars and cofounder of GitHub. It details the meaning of a given version number. From looking at the commit history I can see that semver was beginning to formalise in early 2011.
 
 	"^3.10.1"
 
