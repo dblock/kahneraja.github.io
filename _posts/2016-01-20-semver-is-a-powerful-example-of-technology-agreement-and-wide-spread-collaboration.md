@@ -14,6 +14,7 @@ caption: "jontejada.com"
 - [Jake Ginnivan](jake.ginnivan.net)
 - [How we version our software](http://andreasohlund.net/2013/10/29/how-we-version-our-software-in-particular/)
 - [Why semver ranges are literally the worst…](https://medium.com/@kentcdodds/why-semver-ranges-are-literally-the-worst-817cdcb09277#.r0b7kxxg8)
+- [Semantic Versioning Basics on Youtube](https://www.youtube.com/watch?v=QMUSkra7Blk)
 
 Semver is a pretty quite topic. For what's there to help us with I'm surprised I'm only now learning about it. It's the sort of thing that can help on many different levels.
 
@@ -40,3 +41,5 @@ Without a common understanding of how we label our releases it becomes increasin
 Semver is one awesome "agreement" success story that allows a massively diverse group of people to work well together.
 
 Thinking in semver has also started to change the way I think about my backlog!
+
+If you're working on a bunch of components that want to play happy together then take a look at how semver can help you play better together.
