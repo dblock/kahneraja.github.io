@@ -8,7 +8,7 @@ feature: "semver.jpg"
 caption: "jontejada.com"
 ---
 
-- (ASP.NET Community Hangout - January 19th, 2016)[https://www.youtube.com/watch?v=FSf83_TU5Yg]
+- [ASP.NET Community Hangout - January 19th, 2016](https://www.youtube.com/watch?v=FSf83_TU5Yg)
 - [Semantic Versioning](http://semver.org/)
 - [GitVersion](https://gitversion.readthedocs.org/en/latest/)
 - [Jake Ginnivan](jake.ginnivan.net)
