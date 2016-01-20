@@ -15,6 +15,8 @@ caption: "jontejada.com"
 - [How we version our software](http://andreasohlund.net/2013/10/29/how-we-version-our-software-in-particular/)
 - [Why semver ranges are literally the worst…](https://medium.com/@kentcdodds/why-semver-ranges-are-literally-the-worst-817cdcb09277#.r0b7kxxg8)
 
+Semver is a pretty quite topic. For what's there to help us with I'm surprised I'm only now learning about it. It's the sort of thing that can help on many different levels.
+
 ## What is Semver?
 
 Semantic Versioning is a commonly used naming convension for labeling a library, component, package, api, service or any other shared piece of technology. It can also be used for document store management or anything else that is constantly evolving.
