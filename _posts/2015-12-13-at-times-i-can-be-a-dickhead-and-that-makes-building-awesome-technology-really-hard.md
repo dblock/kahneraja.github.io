@@ -76,7 +76,7 @@ I love being around people. I love the work that we do on a daily basis. The cre
 
 I absolutely love bringing people together. If I could I would do my job for free.
 
-I now understanding that if I want to be a more influential leader, when faced with dispute and chaos, I need to find a way to present stability, reliability and safety, and to be less of a dickhead.
+I now understand that if I want to be a more influential leader, when faced with dispute and chaos, I need to find a way to present stability, reliability and safety, and to be less of a dickhead.
 
 Thank you for the feedback and for being so patient with me.
 
