@@ -11,7 +11,7 @@ caption: "jontejada.com"
 - [ASP.NET Community Hangout - January 19th, 2016](https://www.youtube.com/watch?v=FSf83_TU5Yg)
 - [Semantic Versioning](http://semver.org/)
 - [GitVersion](https://gitversion.readthedocs.org/en/latest/)
-- [Jake Ginnivan](jake.ginnivan.net)
+- [Jake Ginnivan](http://jake.ginnivan.net)
 - [How we version our software](http://andreasohlund.net/2013/10/29/how-we-version-our-software-in-particular/)
 - [Why semver ranges are literally the worst…](https://medium.com/@kentcdodds/why-semver-ranges-are-literally-the-worst-817cdcb09277#.r0b7kxxg8)
 - [Semantic Versioning Basics on Youtube](https://www.youtube.com/watch?v=QMUSkra7Blk)
