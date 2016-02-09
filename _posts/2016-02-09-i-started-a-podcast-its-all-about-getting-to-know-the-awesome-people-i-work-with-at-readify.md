@@ -9,7 +9,7 @@ feature: "podcast.jpg"
 - [Getting to know our Readify Consultants Podcast](https://soundcloud.com/kahne-raja/sets/getting-to-know-our-readify)
 - [Wavepad and Mixpad are fast becoming my default audio editing tool.](http://www.nch.com.au/software/audio.html)
 - [The Opinion app makes recording podcasts on your iPhone or iPad easy!](http://lifehacker.com/opinion-makes-recording-podcasts-on-your-iphone-or-ipad-1691701049)
-- [How am I recording the phone calls? TapeACall!](https://www.tapeacall.com/)
+- [How am I recording these phone calls? TapeACall!](https://www.tapeacall.com/)
 
 I work for a tech consultancy called Readify. It's an Australian owned business with over 200 staff in every major city. We work for a wide variety of clients including major financial institutions and startups. It's a pretty cool place to work.
 
