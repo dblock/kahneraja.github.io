@@ -6,7 +6,6 @@ tags: []
 published: True
 feature: "podcast.jpg"
 ---
-- [Getting to know our Readify Consultants Podcast](https://soundcloud.com/kahne-raja/sets/getting-to-know-our-readify)
 - [Wavepad and Mixpad are fast becoming my default audio editing tool.](http://www.nch.com.au/software/audio.html)
 - [The Opinion app makes recording podcasts on your iPhone or iPad easy!](http://lifehacker.com/opinion-makes-recording-podcasts-on-your-iphone-or-ipad-1691701049)
 - [How am I recording these phone calls? TapeACall!](https://www.tapeacall.com/)
@@ -22,3 +21,5 @@ Along the way I've learnt a lot from starting this initiative. The process of fi
 I hope you enjoy listening to this as much as I enjoy making it.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/194321128&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+Available on [SoundCloud](https://soundcloud.com/kahne-raja/sets/getting-to-know-our-readify) and [iTunes](https://itunes.apple.com/au/podcast/getting-to-know-our-readify/id1082873689?mt=2)
