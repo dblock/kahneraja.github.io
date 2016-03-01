@@ -12,6 +12,8 @@ feature: "podcast.jpg"
 - [Adobe Audition. After some experimentation I've found Adobe Audition to be the only really suitable editor](http://www.adobe.com/products/audition.html)
 - [MP3 Skype Recorder. Recording skype calls locally ends up better quality and far easier to edit due to better channel splitting](http://voipcallrecording.com/)
 - [Preparation Notes](/assets/docs/podcast-notes.txt)
+- [75 Good Questions to Ask to Get to Know Someone](http://www.mantelligence.com/good-questions-to-ask-to-get-to-know-someone/)
+- [Random Question Generator](http://www.conversationstarters.com/generator.php)
 
 I work for a tech consultancy called Readify. It's an Australian owned business with over 200 staff in every major city. We work for a wide variety of clients including major financial institutions and startups. It's a pretty cool place to work.
 
