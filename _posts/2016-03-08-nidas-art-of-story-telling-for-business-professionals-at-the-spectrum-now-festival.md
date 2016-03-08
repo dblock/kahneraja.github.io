@@ -44,10 +44,10 @@ It's these sorts of concepts we worked through, on stage, under pressure, in rea
 
 It's a 2hr team process that involves a number of physical, emotional and challenging exercises.
 
-Weather it be experimenting with movement, balance, breathing, heartbeat, skin, eyes, touch or expression, there is a number of interesting games the group is encouraged to work through that literally opened my eyes to what is really going on in the background when I get up and present to others.
+Whether it be experimenting with movement, balance, breathing, heartbeat, skin, eyes, touch or expression, there is a number of interesting games the group is encouraged to work through that literally opened my eyes to what is really going on in the background when I get up and present to others.
 
 I laughed. I nearly cried. It's powerful stuff.
 
-Whether it be in an email, a document, a lunch, a meeting, or just at my desk. Being in control of my heart and mind is a powerful place to start. This is where the workshop took me.
+I may be writing an email, talking to colleagues at lunch, holding a meeting, giving instructions to a gropu or just working away at my desk. Being in control of my heart and mind is a powerful place to start. This is where the workshop took me.
 
 Who's up for taking the next course?
