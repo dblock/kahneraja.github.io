@@ -48,6 +48,6 @@ Weather it be experimenting with movement, balance, breathing, heartbeat, skin, 
 
 I laughed. I nearly cried. It's powerful stuff.
 
-Whether it be in an email, a document, a lunch, a meeting, or just at my desk. Being in control of my heart and mind is powerful place to start. This is where the workshop took me.
+Whether it be in an email, a document, a lunch, a meeting, or just at my desk. Being in control of my heart and mind is a powerful place to start. This is where the workshop took me.
 
 Who's up for taking the next course?
