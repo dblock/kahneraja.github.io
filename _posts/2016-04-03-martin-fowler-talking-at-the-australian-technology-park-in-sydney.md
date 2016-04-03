@@ -23,6 +23,6 @@ Listening to him talk reminded me that working in technology is quite a privileg
 
 He's the sort of technologist who writes clean code not because he's an precision artist. Instead, Martin Fowler writes clean code because he is a main stream hacktivist thoughtworker.
 
-I've been following his writing now for nearly 20 years. When I heard he was coming to Sydney I was a little star struck. I wasn't going to miss out on seeing him present. For me, this was 2016's highlight of the Sydney technologists user group circuit this year.
+I've been following his writing now for nearly 20 years. When I heard he was coming to Sydney I was a little star struck. I wasn't going to miss out on seeing him present.
 
 I wasnt disappointed. If you get the chance, go and see him!
