@@ -19,7 +19,7 @@ It's his expertise, emotion and passion that brings a certain gravity to his tec
 
 He traverses commonly discussed topics in a very unique way. He starts by looking at the human, social, and scientific consequences of technology choices, design patterns and agile practices. 
 
-Listening to him talk reminded me that working in technology is quite a privilege. Technology is often at the heart of modern successful business.
+Listening to him talk reminded me that working in technology is quite a privilege.
 
 He's the sort of technologist who writes clean code not because he's an precision artist. Instead, Martin Fowler writes clean code because he is a main stream hacktivist thoughtworker.
 
