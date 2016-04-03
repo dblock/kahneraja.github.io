@@ -9,9 +9,11 @@ feature: "martin-fowler.jpg"
 - [YOW! & Thoughtworks bring you Martin Fowler - Sydney, March 29](http://www.eventbrite.com.au/e/yow-thoughtworks-bring-you-martin-fowler-sydney-march-29-tickets-22103248411){:target="_blank"}
 - [martinfowler.com](http://www.martinfowler.com/){:target="_blank"}
 
-It was awesome to catch up with the Sydney Readify crew and see Martin Fowler talk on Microservices, Event Sourcing and Infrastructure as Code last week.
+For me, this was 2016's highlight of the Sydney technologists user group circuit.
 
-When Martin Fowler speaks, the industry listens. I learnt a lot about persuasion from listening to him speak.
+Last week I was lucky enough to go along with my Readify colleagues to see Martin Fowler present on Microservices, Event Sourcing and Infrastructure as Code.
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 
 It's his expertise, emotion and passion that brings a certain gravity to his technology conversation. 
 
@@ -21,6 +23,6 @@ Listening to him talk reminded me that working in technology is quite a privileg
 
 He's the sort of technologist who writes clean code not because he's an precision artist. Instead, Martin Fowler writes clean code because he is a main stream hacktivist thoughtworker.
 
-I've been following his writing now for nearly 20 years. When I heard he was coming to Sydney I was a little star struck. I wasn't going to miss out on seeing him present.
+I've been following his writing now for nearly 20 years. When I heard he was coming to Sydney I was a little star struck. I wasn't going to miss out on seeing him present. For me, this was 2016's highlight of the Sydney technologists user group circuit this year.
 
 I wasnt disappointed. If you get the chance, go and see him!
