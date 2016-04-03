@@ -25,8 +25,8 @@ He's the sort of technologist who writes clean code not because he's an precisio
 
 I've been following his writing now for nearly 20 years. When I heard he was coming to Sydney I was a little star struck. I wasn't going to miss out on seeing him present.
 
-His tip for all software developers was...
+His tip for the industry was...
 
-> "Get into devops and infrastructure as code. Automating your pipeline is going to pay off big. For you. For your clients."
+> "If you want to make the most of the cloud then get into infrastructure as code. Automating your pipeline is going to pay off big. For your clients. For you."
 
 I wasnt disappointed. If you get the chance, go and see him!
