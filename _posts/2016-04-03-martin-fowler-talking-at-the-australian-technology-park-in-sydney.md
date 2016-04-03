@@ -29,4 +29,4 @@ His tip for the industry was...
 
 > "If you want to make the most of the cloud then get into infrastructure as code. Automating your pipeline is going to pay off big. For your clients. For you."
 
-I wasnt disappointed. If you get the chance, go and see him!
+I wasn't disappointed. If you get the chance, go and see him!
