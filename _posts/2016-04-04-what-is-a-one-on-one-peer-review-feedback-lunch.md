@@ -9,7 +9,7 @@ feature: "feedback-lunch.jpg"
 
 Let me start with a challenge.
 
-Send two colleagues you work with the following email.
+Copy and past the following email and send it to two colleagues you work with on a daily basis.
 
 ---
 
@@ -44,15 +44,11 @@ Thanks,
 
 ---
 
-Copy and paste that and send it to someone now.
-
-I believe that if everyone in a business sends this to two people it will lead on to a progressive agile fabric of open communication. This is at the heart of a culture based on a group of individuals.
-
 ## Learning to give and receive feedback.
 
-What I've noticed about doing these lunches is that it's actually really hard to give and receive feedback.
+I believe this will lead on to a progressive agile fabric of open communication. In my view open communication is at the heart of an "individuals based culture".
 
-More often than not it tends to start off with an awkward silence. A bit like a first date. It takes some getting used to. But, after a few sessions something changes, people start to become more comfortable with the format and begin to open up.
+What I've noticed about doing these lunches is that it's actually really hard to give and receive feedback. More often than not it tends to start off with a very awkward silence. A bit like a first date. It takes some getting used to. But, after a few sessions something changes, people start to become more comfortable with the format and begin to open up.
 
 	Individual openness.
 	Organisation agility.
