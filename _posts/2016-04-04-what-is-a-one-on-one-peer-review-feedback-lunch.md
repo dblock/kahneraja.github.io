@@ -27,7 +27,7 @@ Copy and past the following email and send it to two colleagues you work with on
 
 	Wait. What exactly is a “one on one peer review feedback lunch" I hear you ask?
 
-	It’s an opportunity for two people to get some on-the-ground feedback in a open, honest and friendly forum.
+	It’s an opportunity for two people to get together and share on-the-ground feedback in an open, honest and friendly forum.
 
 	A chance for us to have a two way conversation in private about three things.
 
@@ -37,9 +37,9 @@ Copy and past the following email and send it to two colleagues you work with on
 
 	3.	Your focused improvement point. “Cool. So I totally get that you are trying to work on your ability to influence the strategy we are taking with project ABC. I’ll track you on that. Here’s what I’ve seen you do that helps or hinders that goal.”
 
-	I’ve ran these regular two way catch-ups with a bunch of colleagues on various projects and it’s been eye opening. 
+	I’ve ran these regular two way catch-ups with a bunch of colleagues on various projects and it’s always turned out to be eye opening. 
 
-	To follow up, I tend to track our conversation in Trello. This helps generate a report of goals achieved including on the ground specific promotional material.
+	To follow up, I tend to track our conversation in Trello. This helps generate a continuous report of goals achieved.
 
 	If you’d rather not – because it sounds creepy - then no problem. No hard feelings.
 
