@@ -54,4 +54,4 @@ What I've noticed about doing these lunches is that it's actually really hard to
 	Organisation agility.
 	Profit.
 
-Try it. Pass it on!
+Plenty of people are already doing this. Join us. Try it. Pass it on.
