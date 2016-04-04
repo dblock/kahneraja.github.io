@@ -12,6 +12,7 @@ Let me start with a challenge.
 Send two colleagues you work with on a regular basis the following email.
 
 ---
+
 Subject: One on one peer review feedback lunch: {Their Name} & {Your name}.
 
 Location: Nearby cafe.
@@ -40,6 +41,7 @@ If you’d rather not – because it sounds creepy - then no problem. No hard fe
 
 Thanks,
 {Your name}
+
 ---
 
 Copy and paste that and send it to someone now.
