@@ -19,6 +19,10 @@ Copy and past the following email and send it to two colleagues you work with on
 
 	Cafe Nearby.
 
+	Schedule:
+
+	Lunch. Wednesdays. Fortnightly.
+
 	Message:
 
 	Hi {Their Name},
@@ -27,15 +31,15 @@ Copy and past the following email and send it to two colleagues you work with on
 
 	Wait. What exactly is a “one on one peer review feedback lunch" I hear you ask?
 
-	It’s an opportunity for two people to get together and share on-the-ground feedback in an open, honest and friendly forum.
+	It’s an opportunity for two people to get together on a scheduled basis and share on-the-ground feedback in an open, honest and friendly forum.
 
 	A chance for us to have a two way conversation in private about three things.
 
-	1.	Your best moment. “I think your best moment since we last met was…”
+	1. Your best moment. “I think your best moment since we last met was…”
 
-	2.	You worst moment. “I think your worst moment since we last met was…”
+	2. You worst moment. “I think your worst moment since we last met was…”
 
-	3.	Your focused improvement point. “Cool. So I totally get that you are trying to work on your ability to influence the strategy we are taking with project ABC. I’ll track you on that. Here’s what I’ve seen you do that helps or hinders that goal.”
+	3. Your focused improvement point. “Cool. So I totally get that you are trying to work on your ability to influence the strategy we are taking with project ABC. I’ll track you on that. Here’s what I’ve seen you do that helps or hinders that goal.”
 
 	I’ve ran these regular two way catch-ups with a bunch of colleagues on various projects and it’s always turned out to be eye opening. 
 
