@@ -51,7 +51,7 @@ Copy and past the following email and send it to two colleagues you work with on
 
 I believe this will lead on to a progressive agile fabric of open communication. In my view open communication is at the heart of an "individuals based culture".
 
-What I've noticed about doing these lunches is that it's actually really hard to give and receive feedback. More often than not it tends to start off with a very awkward silence. A bit like a first date. It takes some getting used to. But, after a few sessions something changes, people start to become more comfortable with the format and begin to open up.
+What I've noticed about doing these lunches is that it's actually really hard to give and receive feedback. More often than not it tends to start off with a very awkward silence. A bit like a first date. It takes some getting used to. But, after a few sessions something changes, people start to become more comfortable with the format and begin to open up. Practice makes perfect.
 
 	Individual openness.
 	Organisation agility.
