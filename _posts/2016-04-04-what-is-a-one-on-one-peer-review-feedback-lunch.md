@@ -52,6 +52,8 @@ What I've noticed about doing these lunches is that it's actually really hard to
 
 More often than not it tends to start off with an awkward silence. A bit like a first date. It takes some getting used to. But, after a few sessions something changes, people start to become more comfortable with the format and begin to open up.
 
-	Individual openness = Organisation agility = Profit.
+	Individual openness.
+	Organisation agility
+	Profit.
 
 Try it. Pass it on!
