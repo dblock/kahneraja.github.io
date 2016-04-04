@@ -41,7 +41,7 @@ Copy and paste the following email and send it to two colleagues you work with o
 
 	3. Your focused improvement point. “Cool. So I totally get that you are trying to work on your ability to influence the strategy we are taking with project ABC. I’ll track you on that. Here’s what I’ve seen you do that helps or hinders that goal.”
 
-	I’ve ran these regular two way catch-ups with a bunch of colleagues on various projects and it’s always turned out to be eye opening. 
+	I’ve ran these regular two way catch-ups with a bunch of colleagues on various projects and it often turned out to be an eye opening journey.
 
 	To follow up, I tend to track our conversation in Trello. This helps generate a continuous report of goals achieved.
 
