@@ -9,7 +9,7 @@ feature: "feedback-lunch.jpg"
 
 Let me start with a challenge.
 
-Copy and past the following email and send it to two colleagues you work with on a daily basis.
+Copy and paste the following email and send it to two colleagues you work with on a daily basis.
 
 	Subject: 
 
