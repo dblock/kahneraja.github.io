@@ -7,9 +7,7 @@ published: True
 feature: "feedback-lunch.jpg"
 ---
 
-What is a "one on one peer review feedback lunch"?
-
-One on one peer feedback lunch: {Their Name} & {Your name}
+Let me start with a challenge.
 
 Send two colleagues you work with on a regular basis the following email.
 
