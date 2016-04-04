@@ -9,7 +9,7 @@ feature: "feedback-lunch.jpg"
 
 Let me start with a challenge.
 
-Send two colleagues you work with on a regular basis the following email.
+Send two colleagues you work with the following email.
 
 ---
 
