@@ -9,9 +9,7 @@ feature: "piano.jpg"
 
 I've spent the last few decades playing violin, piano, drawing and writing code.
 
-This past month I've learn something new.
-
-Whilst working on a collection of 7 new primary minor piano preludes I realise a few things. 
+This past month whilst working on a new collection of 7 primary minor piano preludes I realise a few things. 
 
 1. In a very real sense my heart break around music, friendship, work and love is dissected through the endless act of drawing, composing and writing code.
 2. Writing classical music is structure, scientific and in many ways all about innovation and problem solving.
