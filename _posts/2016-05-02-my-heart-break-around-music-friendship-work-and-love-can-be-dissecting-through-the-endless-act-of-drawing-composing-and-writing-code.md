@@ -7,6 +7,8 @@ published: True
 feature: "piano.jpg"
 ---
 
+    // Drafting
+
 I've spent the last few decades playing violin, piano, drawing and writing code.
 
 This past month whilst working on a new collection of 7 primary minor piano preludes I realise a few things. 
