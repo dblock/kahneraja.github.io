@@ -19,7 +19,7 @@ This past month whilst working on a new collection of 7 primary minor piano prel
 
 I draw and paint on a daily basis. It's intense, relaxing and progressive.
 
-One thing that strikes me about drawing is that it is structure. I tend to enjoy life drawing sessions in which I spend a significant amount of my time analysing anatomy and perspective.
+One thing that strikes me about drawing is that it is structure. I tend to enjoy life drawing sessions in which I spend a significant amount of my time analysing anatomy and perspective. It's a form of science.
 
 In every step of this work there is something new I must learn. Things need to be tested. Feedback is enlightening. It's a process.
 
@@ -37,7 +37,7 @@ At it's heart I believe all artwork is a powerful form of social and intellectua
 
 These days I write piano music on a daily basis. It's intense, relaxing and progressive.
 
-One thing that strikes me about composing classical music is that it is structure. I tend to enjoy tearing apart simple compositions by Mozart or Bach and rebuilding them in new ways.
+One thing that strikes me about composing classical music is that it is structure. I tend to enjoy tearing apart simple compositions by Mozart or Bach and rebuilding them in new ways. It's a form of science.
 
 In every step of this work there is something new I must learn. Things need to be tested. Feedback is enlightening. It's a process.
 
@@ -55,7 +55,7 @@ At it's heart I believe all music is a powerful form of social and intellectual 
 
 I write code on a daily basis. It's my job at Australia's best tech consultancy. It's intense, relaxing and progressive.
 
-One thing that strikes me about writing software is that it is structure. I tend to enjoy looking at complex problems and finding ways to simplify them. 
+One thing that strikes me about writing software is that it is structure. I tend to enjoy looking at complex problems and finding ways to simplify them.  It's a form of science.
 
 In every step of this work there is something new I must learn. Things need to be tested. Feedback is enlightening. It's a process.
 
