@@ -31,7 +31,7 @@ Once I've framed my subject I'm in a good position to apply texture and focus in
 
 You can see my artwork online via @artkahne.
 
-At it's heart I believe all artwork is a powerful form of social and intellectual manipulation. Amoung others I bow down to the evil genius of Rembrandt and Michelangelo.
+At its heart I believe all artwork is a powerful form of social and intellectual manipulation. Among others I bow down to the evil genius of Rembrandt and Michelangelo.
 
 ## Composing
 
@@ -49,7 +49,7 @@ It's intuitive.
 
 Once I've developed my theme I'm in a good position to apply texture and focus in a way that reflect my unique style.
 
-At it's heart I believe all music is a powerful form of social and intellectual manipulation. Amoung others I bow down to the evil genius of Mozart and Bach.
+At its heart I believe all music is a powerful form of social and intellectual manipulation. Among others I bow down to the evil genius of Mozart and Bach.
 
 ## Coding
 
@@ -67,4 +67,4 @@ It's intuitive.
 
 Once I've framed my architecture I'm in a good position to apply design strategy and implementation in a way that reflect my teams approach.
 
-At it's heart I believe all technology is a powerful form of social and intellectual manipulation. Amoung others I bow down to the evil genius of Martin Fowler, startup businesses across the planet, and my colleagues at Readify.
+At its heart I believe all technology is a powerful form of social and intellectual manipulation. Among others I bow down to the evil genius of Martin Fowler, start-up businesses across the planet, and my colleagues at Readify.
