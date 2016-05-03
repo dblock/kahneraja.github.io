@@ -9,7 +9,7 @@
 title: "Kahne Raja. Coder. Web Specialist. Scrum Master. Blogger. Speaker. Artist. Musician."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kahneraja.com" # the base hostname & protocol for your site
-permalink: /:title
+permalink: /:title/
 encoding: utf-8
 # Build settings
 markdown: kramdown
