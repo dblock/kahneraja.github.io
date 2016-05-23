@@ -12,8 +12,6 @@ feature: "freewill.jpg"
 - [Julian Baggini: Free Will](http://www.swf.org.au/program/swf2016/julian-baggini-free-will-230)
 - [Sydney Writers' Festival](www.swf.org.au)
 
-Do you believe you are making choices with technology, implementation, agile practices, time, money or power?
-
 On the weekend I went to the writers festival and got into Julian Baggini's new book Regaining Freedom. 
 
 It's a high level exploration of "free will". 
@@ -22,7 +20,7 @@ I'm loving it.
 
 The latest science on the topic has agreed. 
 
-Free will is an illusion. We do not make choices with our cognitive mind.
+Free will is an illusion. Despite our best efforts, it appears that we do not make "choices" with our cognitive mind.
 
 The reason you decide to speak up in a meeting or take the day off is not based on choice. It is and was in a very real sense always to be.
 
