@@ -12,7 +12,9 @@ feature: "freewill.jpg"
 - [Julian Baggini: Free Will](http://www.swf.org.au/program/swf2016/julian-baggini-free-will-230)
 - [Sydney Writers' Festival](www.swf.org.au)
 
-On the weekend I went to the writers festival and got into Julian Baggini's new book Regaining Freedom. 
+Are we really making technological choices?
+
+On the weekend I went to the Sydney Writers' Festival and got into Julian Baggini's new book Regaining Freedom. 
 
 It's a high level exploration of "free will". 
 
