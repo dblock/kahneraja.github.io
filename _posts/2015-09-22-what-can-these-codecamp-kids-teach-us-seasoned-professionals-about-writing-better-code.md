@@ -12,8 +12,6 @@ feature: codecamp.jpg
 *   [Agario. Eat cells smaller than you and don’t get eaten by the bigger ones.](http://agar.io/)
 *   [Fishburners, the coolest Startup Breakout space in Sydney](http://www.kahneraja.com/fishburners-the-coolest-startup-breakout-space-in-sydney/)
 
-Drafting…
-
 I spent last week hanging out with a group of passionate kids. Building next generation apps. Teaching them how to write code. Tomorrow’s beautiful minds. Exploring the abstract world of software.
 
 Readify gave me the time to help support this amazing community project. #BestPlaceToWork
