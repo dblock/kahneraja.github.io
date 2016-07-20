@@ -4,16 +4,18 @@
 <div>
 	<ul>
 	{% for post in site.posts limit:10 %}
-	  <li>
-	  	<a href="{{ post.url | prepend: site.baseurl }}">
-	      	<div>
-	      		<img src="{{ site.baseurl }}/assets/post/thumbnail/{{ post.feature }}" alt="{{ post.title }}">
-	      	</div>	  	
-	      	<div>
-	      		<span>{{ post.title }}</span>
-	      	</div>
-	    </a>
-	  </li>
+		{% if post.secret != true %}
+		  <li>
+		  	<a href="{{ post.url | prepend: site.baseurl }}">
+		      	<div>
+		      		<img src="{{ site.baseurl }}/assets/post/thumbnail/{{ post.feature }}" alt="{{ post.title }}">
+		      	</div>	  	
+		      	<div>
+		      		<span>{{ post.title }}</span>
+		      	</div>
+		    </a>
+		  </li>
+	  	{% endif %}
 	{% endfor %}
 	</ul>
 </div>

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Julian Baggini at the Sydney Writers' Festival on Free Will, Accountability and Feedback"
-categories: []
-tags: []
-published: True
 feature: "freewill.jpg"
 ---
 
