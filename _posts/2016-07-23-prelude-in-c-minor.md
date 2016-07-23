@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prelude in C Minor for Piano by Kahne Raja."
+title: "Prelude in C Minor."
 feature: "c-minor.jpg"
 noindex: true
 ---
