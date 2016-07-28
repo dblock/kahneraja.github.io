@@ -24,8 +24,7 @@
 	}
 
 	img.profile {
-		padding: $white-gap * 2;
-		width: $tile-width - $white-gap * 10;
+		width: 100%;
 	}
 
 	@media screen and (max-width: $desktop-width + $white-gap * 8)
