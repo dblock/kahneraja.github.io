@@ -4,13 +4,19 @@
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
-
-    <div class="outer-panel"><div class="left-panel">{{ content }}</div><div class="right-panel">{% include right.html %}</div></div>
-
-    {% include footer.html %}
-
+		<div class="grid grid-set">
+			{% include grid-top.html %}
+			<div class="grid grid-bottom">
+				<div class="grid grid-main">
+					{{content}}
+				</div>
+				<div class="grid grid-tail">
+					{% include grid-profile.html %}
+					{% include grid-tail.html %}
+					<div class="archive"><a href="/archive">Archive</a></div>
+				</div>
+			</div>
+		</div>
   </body>
 
 </html>
