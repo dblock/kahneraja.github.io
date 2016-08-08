@@ -5,6 +5,8 @@ feature: "ndcsydney.jpg"
 noindex: true
 ---
 
+- [NDC Sydney 2016: Software Developers Conference](http://ndcsydney.com){:target="_blank"}
+
 ### Cristian Prieto: Javascript through history.
 
 Javascript, the internet lingua franca. Many developers have embraced and love javascript, many hate it as a language. Why is inheritance handled in such a weird way? Why do I have to put 'strict' at the beginning of every script? What, there is no more ES6? What is this ES2017? What is Rhino and V8?

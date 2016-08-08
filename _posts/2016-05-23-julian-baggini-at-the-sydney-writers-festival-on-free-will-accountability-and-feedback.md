@@ -6,8 +6,8 @@ feature: "freewill.jpg"
 
 	// drafting...
 
-- [Julian Baggini: Free Will](http://www.swf.org.au/program/swf2016/julian-baggini-free-will-230)
-- [Sydney Writers' Festival](www.swf.org.au)
+- [Julian Baggini: Free Will](http://www.swf.org.au/program/swf2016/julian-baggini-free-will-230){:target="_blank"}
+- [Sydney Writers' Festival](www.swf.org.au){:target="_blank"}
 
 Are we really making technology choices?
 

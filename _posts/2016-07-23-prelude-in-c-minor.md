@@ -5,8 +5,8 @@ feature: "c-minor.jpg"
 noindex: true
 ---
 
-- [An Introduction to Classical Music Composition @Coursera.](https://www.coursera.org/learn/classical-composition)
-- [Sheet music.](/assets/docs/c-minor.jpg)
+- [An Introduction to Classical Music Composition @Coursera.](https://www.coursera.org/learn/classical-composition){:target="_blank"}
+- [Sheet music.](/assets/docs/c-minor.jpg){:target="_blank"}
 
 Peter Edwards' course on music composition is fascinating. It's a great refresher for anyone who has studied music theory or a fun way to discover more about how and why Mozart chose the dots that he did.
 

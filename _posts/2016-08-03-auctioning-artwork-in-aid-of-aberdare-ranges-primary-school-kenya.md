@@ -5,9 +5,9 @@ feature: "auction.jpg"
 noindex: true
 ---
 
-- [Wotton + Kearney](http://www.wottonkearney.com.au/)
-- [So They Can - Aberdare Ranges Primary School](http://www.sotheycan.org/what-we-do/education/aberdare-ranges-primary-school/)
-- [@ArtKahne](www.instagram.com/artkahne) 	
+- [Wotton + Kearney](http://www.wottonkearney.com.au/){:target="_blank"}
+- [So They Can - Aberdare Ranges Primary School](http://www.sotheycan.org/what-we-do/education/aberdare-ranges-primary-school/){:target="_blank"}
+- [@ArtKahne](www.instagram.com/artkahne){:target="_blank"} 	
 
 Very excited to have two of my works selected to be auctioned off at next weeks Wotton + Kearney & So They Can fund raising dinner.
 
