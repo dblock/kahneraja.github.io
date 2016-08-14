@@ -10,9 +10,7 @@ noindex: true
 - [Tech 4 Hillary](https://www.hillaryclinton.com/page/tech/).
 - [DevProgress: We are coders, designers, leaders, writers, mentors, and researchers.](http://devprogress.us/).
 
-A few months back I applied to join the Hillary 2016 campaign as a developer. A short term project to help out in any way possible.
-
-Since then I've begun contributing to a number of open source projects the campaign depends upon. I've now been invited to join the team in New York to focus my efforts.
+A few months back I applied to join the Hillary 2016 campaign as a developer. A short term project to help out in any way possible. Since then I've begun contributing to a number of open source projects the campaign depends upon. I'm now going over to New York to join the team and focus my efforts.
 
 The election is TUE 08 NOV 2016. 
 
@@ -27,9 +25,11 @@ So far the projects I've been involved in revolving around web app build stuff. 
 
 ### Thank you Readify
 
-I'm basically doing 3 days a week for Hillary and 2 days a week remotely for Readify - the best tech consultancy in Australia.
+I'm basically doing 3 days a week for Hillary and 2 days a week remotely dev for Readify - the best tech consultancy in Australia.
 
-One of the coolest things about working at Readify, aside from the talent, is that it's the sort of team that encourages this sort of community engagement and flexible work life passion balance. I'm eternally grateful.
+One of the coolest things about working at Readify, aside from the talent, is that it's the sort of crew that encourages this sort of community engagement and flexible work/life/passion balance. 
+
+I'm eternally grateful.
 
 I'll be back in Sydney early 2017.
 
