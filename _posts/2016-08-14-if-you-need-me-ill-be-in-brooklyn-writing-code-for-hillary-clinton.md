@@ -25,7 +25,7 @@ So far the projects I've been involved in revolving around web app build stuff. 
 
 ### Thank you Readify
 
-I'm basically doing 3 days a week for Hillary and 2 days a week remotely dev for Readify - the best tech consultancy in Australia.
+I'm doing 3 days a week for Hillary and 2 days a week remotely dev for Readify - the best tech consultancy in Australia.
 
 One of the coolest things about working at Readify, aside from the talent, is that it's the sort of crew that encourages this sort of community engagement and flexible work/life/passion balance. 
 
