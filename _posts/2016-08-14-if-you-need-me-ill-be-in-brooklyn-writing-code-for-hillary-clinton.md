@@ -5,8 +5,6 @@ feature: "hillary.jpg"
 noindex: true
 ---
 
-	// Drafting...
-
 - [Tech 4 Hillary](https://www.hillaryclinton.com/page/tech/).
 - [DevProgress: We are coders, designers, leaders, writers, mentors, and researchers.](http://devprogress.us/).
 
