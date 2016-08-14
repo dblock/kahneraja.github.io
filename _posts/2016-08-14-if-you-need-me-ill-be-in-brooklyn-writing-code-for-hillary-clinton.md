@@ -12,16 +12,16 @@ noindex: true
 
 A few months back I applied to join the Hillary 2016 campaign as a developer. A short term project to help out in any way possible.
 
-Since then I've begun to contribute to a number of open source projects the campaign depends upon. I've now been invited to join the team in New York to focus my efforts.
+Since then I've begun contributing to a number of open source projects the campaign depends upon. I've now been invited to join the team in New York to focus my efforts.
 
 The election is TUE 08 NOV 2016. 
 
-	"Don't boo. Code!" @Decause
+>"Don't boo. Code!" @Decause
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dearest <a href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a>. I&#39;m dropping out of my tech consulting work to go full time and do whatever i can to shut you down. All the best.</p>&mdash; Kahne Raja (@KahneRaja) <a href="https://twitter.com/KahneRaja/status/761897608629489665">August 6, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-So far the projects I've been involved in revolving around web app build. Tools the campaign can uses on a daily basis to analyse data and connect volunteers.
+So far the projects I've been involved in revolving around web app build stuff. Tools the campaign uses on a daily basis to analyse data, connect volunteers and drive the get out to vote program.
 
 	React. Travis. Javascript. Github. Heroku. NodeJs. OAuth.
 
