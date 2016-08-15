@@ -17,7 +17,7 @@ The election is TUE 08 NOV 2016.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dearest <a href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a>. I&#39;m dropping out of my tech consulting work to go full time and do whatever i can to shut you down. All the best.</p>&mdash; Kahne Raja (@KahneRaja) <a href="https://twitter.com/KahneRaja/status/761897608629489665">August 6, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-So far the projects I've been involved in revolving around web app build stuff. Tools the campaign uses on a daily basis to analyse data, connect volunteers and drive the get out to vote program.
+So far the projects I've been involved in revolving around web app build stuff. Tools the campaign use on a daily basis to analyse data, connect volunteers and drive the get out to vote program.
 
 	React. Travis. Javascript. Github. Heroku. NodeJs. OAuth.
 
@@ -25,7 +25,7 @@ So far the projects I've been involved in revolving around web app build stuff. 
 
 I'm doing 3 days a week for Hillary and 2 days a week remote dev for Readify - the best tech consultancy in Australia.
 
-One of the coolest things about working at Readify, aside from the talent, is that it's the sort of crew that encourages this sort of community engagement and flexible work/life/passion balance. 
+One of the coolest things about working at Readify, aside from the talent, is that it's the sort of crew that encourages this level of community engagement and flexible work/life/passion balance. 
 
 I'm eternally grateful.
 
