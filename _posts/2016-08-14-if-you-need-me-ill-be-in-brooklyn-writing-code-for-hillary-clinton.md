@@ -29,6 +29,6 @@ One of the coolest things about working at Readify, aside from the talent, is th
 
 I'm eternally grateful.
 
-I'll be back in Sydney early 2017.
+Off this week. Back in Sydney early 2017.
 
 If you'd like to get involved on the Hillary 2016 campaign the first thing you can do is [Sign up at DevProgress.us](http://DevProgress.us). Join us!
